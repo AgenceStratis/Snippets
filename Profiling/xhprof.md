@@ -17,6 +17,7 @@ Installation de l'extension PHP sur Debian :
 Installation de GUI :
 
 Dans un vhost (de site, que on debug, soit sur un vhost dédié)
+
 	mkdir xhprof
 	cd xhprof/
 	wget http://pecl.php.net/get/xhprof-0.9.2.tgz
