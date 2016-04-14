@@ -1,5 +1,7 @@
 <?php
 
+// composer require phpmailer/phpmailer
+
 require 'vendor/autoload.php';
 
 $mail = new PHPMailer;
